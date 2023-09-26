@@ -124,3 +124,44 @@ h1 {
     max-width: 80px;
 }
 
+@media (max-width: 1400px) {
+    .weather-data .current-weather {
+        padding: 20px;
+    }
+
+    .weather-cards{
+        flex-wrap: wrap;
+    }
+
+    .weather-cards .card {
+        width: calc(100% /4 - 15px);
+    }
+}
+
+@media (max-width: 1200px) {
+    .weather-cards .card {
+        width: calc(100% / 3 -px);
+    }
+}
+
+@media (max-width: 950px){
+    .location-input {
+        width: 450px;
+    }
+
+    .weather-cards .card {
+        width: calc(100% / 2 - 10px);
+    }
+}
+
+@media (max-width:750px) {
+    .container{
+        flex-direction: wrap;
+        padding: 15px;
+
+    }
+
+    .location-input {
+        width: 100%;
+    }
+}
