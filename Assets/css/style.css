@@ -95,8 +95,12 @@ h1 {
     display: flex;
 }
 
+.current-weather .weather-icon {
+    text-align: center;
+}
 .current-weather .weather-icon h4 {
     margin-top: -10px;
+    text-transform: capitalize;
     
 }
 
@@ -116,6 +120,7 @@ h1 {
     list-style: none;
     padding: 20px 15px;
     border-radius: 5px;
+   
 
 }
 
