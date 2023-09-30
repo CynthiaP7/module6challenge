@@ -6,6 +6,9 @@ Deployed site: https://cynthiap7.github.io/module6challenge/
 
 Github Repo: https://github.com/CynthiaP7/module6challenge
 
+file:///C:/Users/buwan/Bootcamp%20Projects/module6challenge/index.html
+
+
 Screenshot:
 
 ![image](https://github.com/CynthiaP7/module6challenge/assets/122586416/7c9decc4-fd0c-4ece-91bc-97d3508879e4)
